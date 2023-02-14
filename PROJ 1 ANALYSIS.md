@@ -1,0 +1,35 @@
+# IMPACT OF SOCIAL DETERMINANTS ON COVID 19 CASES ANALYSIS
+
+
+# Final Data Analysis
+
+First looking at a preview from the social determinates of health between all populations, we are analyzing all the social determinants, tiers, population, and case rates between the state, population, and between 7 days ago to 30 days to see how much of an impact it is on Covid 19 infections. Measuring the case rate by calculating the average daily number of COVID-19+ cases (excluding certain cases) over 7 days, divided by the number of people living in the county/region/state.The adjusted case rate is calculated as the case rate multiplied by a case rate adjustment factor that is based on the difference between the county testing volume (testing volume, tests per 100,000 per day) and the median testing volume calculated across all counties.
+
+The first analysis that was done was by grouping the dataset by social determinates, social tier, and what the case rate was. In this dataset, it was shown that those with an income of less than 40k had the highest case rate per 100k at 30,903 per 100k people. As the social tier increases, we see that it drops from 26,045 with an income at 60k-80k to a case rate of 17,160 with those making above 120K. This allows us to conclude that those with lower income are more exposed to Covid-19 infection which may be due to an increase in careers that force them to come in contact with multiple people in their days which could include jobs that require customer service or alot of crowding in condensed areas.
+
+When split up into multiple tiers of social determinants, including, crowding, income, cumulative income, and insurance, we are able to more thoroughly review the difference in case rates between the social tiers. 
+
+When the social determinant is due to crowding, which essentially is due to a dense number of occupants in a space, it seems like the case rate per 100k does not necessarily make a difference when it comes to social tier percentages from as little as 0% up to over 20% with the case rate still ranging from 10.7 to 16.6 regardless of the tier of income However in the bar graph depicting the Covid 19 cases per 100k by Crowding Social Tier, when crowding social tier is above 20% there is a high number of cases per 100k at about 15,000 cases when there is a high percentage of crowding. As the social tier percentages decrease, we also see the bar graph slowly decrease linearly as well at about 3,000 less Covid Cases per group of social tier percentages.
+
+When the social determinant is due to income, we can definitely see a definitive difference in case rates per 100k as mentioned above. In November of 2022, numbers were not as high ranging from the upper class at about a 11.7 case rate while the lower class making below 40k about 13.5 case rate per 100k people. However, in January 2023 of this year, case rates increased by about 3-4% for about all groups and increased more in the higher social tier. This may be due to wealthier individuals being able to spend more time with families or going to social gatherings which may lead to an increase of Covid 19 infections. The upper tier making more than 60k had a case rate of atleast 16.2 to 16.6 case rate per 100k. In the line graph depicting Covid 19 cases per 100k by Income Social Tier, there was a peak at both times during December of 2020 to December of 2021 within incomes less than 40k. This could be due to this population once again having to work more in public spaces with a lot of foot traffic and chances of infection.
+
+When the social determiniant is between a cumulative income, the case rates are basically doubled, mirroring single income populations.These rates starts at as little as 17,160 for dual income households making more than 120k a year to as high as 30,903 rate for households making less than 40k a year. This could be due to once again, working more in public spaces than wealthier indivoduals and having a higher chance of exposure to Covid. Once they come in contact with the virus, lower income households could have multiple family members and not have the luxury to self quarantine like others.
+
+When the social determinant is due to insurance, it seems like the higher the social tier, the higher the case rate per 100k is. With the peaks being in December-January 2020 at about 160k to almost 200k for those with a social tier over 35%. The social tier can be due to those with less access to insurance or unable to utilize their insurance benefits. 
+
+In conclusion, with the three social determinants of health being insurance, crowding, and income we see the line graph follow the same trends between all three determinants. For example, insurance and crowding being very similar through December of 2020 to March of 2021 exponentially increasing from 50 cases to a little under 200 cases to back down to around 50 cases around February 2021. Income did not play as big of a factor as insurance and crowding did with the numbers being about 50-60 cases less than the two while following the same trends.
+
+
+
+
+# Major Findings Summary
+
+The major findings discovered through out this data set was a repeating pattern. Through the creation of dataframes and graphs made, we were able to analyze what the major social determinants of health were on Covid 19 Case Rates. The top one was primarily due to crowding in households which we saw repeating trends on higher case rates when there is higher percentages of crowding involved at over 20% of a crowding social tier with higher than 15,000 case rates per 100k. We also see that the peak of Covid 19 Cases fluctuate between low income populations and high income populations and this could be due to multiple reasons. For the higher income population, cases could have peaked within December to January for all three continuous years due to large social gatherings and events for the holidays. For lower income populations, cases could have peaked due to household crowdings during the holidays and to be able to afford cheaper rent. Anotjer factor could include working jpbs in high density public places where Covid infection chances are much higher. If one person in a large household gets infected, it is much more difficult to self quarantine as well due to limited personal space in lower income social tiers.
+
+In conclusion, we can analyze and see that these three social determinants play a huge factor within lower social tiers and its relation with chances or likelihood of Covid 19 infection rates.
+
+
+
+
+
+
