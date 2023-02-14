@@ -8,6 +8,8 @@
 ---
 #### Directory structure:
 Project_1.ipynb  
+Project 1 Slide Deck.pdf  
+README.md  
 Resources/  
 ├─ covid19case_rate_by_social_det.csv  
 ├─ covid-19_race_ethnicity_timeseries.csv  
