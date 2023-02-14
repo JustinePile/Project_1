@@ -17,7 +17,7 @@ Output/
 ├─ fig6.png  
 Working_Files/  
 ├─ Project #1 starter.ipynb  
-├─ PROJ 1 ANALYSIS.ipynb
+├─ PROJ 1 ANALYSIS.ipynb  
 ├─ Screenshot.png  
 
 
