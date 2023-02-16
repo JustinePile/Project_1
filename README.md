@@ -26,6 +26,6 @@ Working_Files/
 ├─ PROJ 1 ANALYSIS.md   
 ├─ Screenshot.png  
 
-##### *Resources directory contains datasets, Output directory contains plots, and Working_Files directory contains misc files*
+##### *Resources directory contains datasets, Output directory contains plots, and Working_Files directory contains work-in-progress files and analysis*
 ---
 ![Screenshot](Working_Files/Screenshot.png)
